@@ -6,6 +6,7 @@ body {
     background-image:url(https://addons.opera.com/media/CACHE/images/themes/31/229031/1.0-rev1/images/96d8d9e4f77fb11b6368ec46d1167f99/9ec422f5aae7c4dd5cef577d9a3c8a2a.jpg);
 
     background-repeat:no-repeat;
+    background-position: center; 
 }
 
 .center {
